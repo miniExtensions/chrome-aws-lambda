@@ -1,4 +1,4 @@
-# chrome-aws-lambda
+# chrome-aws-lambda-without-chromium
 
 [![chrome-aws-lambda](https://img.shields.io/npm/v/chrome-aws-lambda.svg?style=for-the-badge)](https://www.npmjs.com/package/chrome-aws-lambda)
 [![TypeScript](https://img.shields.io/npm/types/chrome-aws-lambda?style=for-the-badge)](https://www.typescriptlang.org/dt/search?search=chrome-aws-lambda)
@@ -10,7 +10,7 @@ Chromium Binary for AWS Lambda and Google Cloud Functions
 ## Install
 
 ```shell
-npm install chrome-aws-lambda --save-prod
+npm install chrome-aws-lambda-without-chromium --save-prod
 ```
 
 This will ship with appropriate binary for the latest stable release of [`puppeteer`](https://github.com/GoogleChrome/puppeteer) (usually updated within a few days).
